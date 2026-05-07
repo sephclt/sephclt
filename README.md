@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Joseph 👋
+## 👨‍💻 About Me
+I'm a passionate **Software Engineer** and an aspiring **Cybersecurity Specialist** based in **SEA**.
 
-<!--
-**sephclt/sephclt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building things that solve real-world problems and continuously learning new technologies. When I'm not coding, you'll find me **making music, playing video games, and reading fiction**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **Imagenesis: A simple image manipulation app from scratch**
+- 🌱 Learning: **C/C++, Graphics Programming, and Cybersecurity**
+- 📫 Reach me at: **josephajero22@gmail.com**
+## 🛠️ Skills
+**Languages**
+- C/C++
+- Python
+- JavaScript/TypeScript
+- Kotlin
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Tools**  
+- OpenGL
+- SDL3
+- ImGui
+- React/NextJS
+- Jetpack Compose
+  
+**Others**  
+- Docker
+## 🔥 Featured Projects
+- **[Thought Bubble App](https://github.com/sephclt/thought-bubble-app)** — A mobile journaling app powered by Sentiment Analysis.
+- **[KahonPapel](https://github.com/sephclt/KahonPapel)** — A simple scripting language for generating text-based data.
+- **[Room 233 Game Demo](https://github.com/sephclt/room-233-game)** — A short demo horror game.
+## 📫 Let's Connect
+**[LinkedIn](https://www.linkedin.com/in/josephajero22/)**
