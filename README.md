@@ -14,6 +14,7 @@ I love building things that solve real-world problems and continuously learning 
 - JavaScript/TypeScript
 - Kotlin
 - PostgreSQL
+- MySQL
 
 **Frameworks & Tools**  
 - OpenGL
@@ -24,6 +25,8 @@ I love building things that solve real-world problems and continuously learning 
   
 **Others**  
 - Docker
+- AWS
+- Firebase
 ## 🔥 Featured Projects
 - **[Thought Bubble App](https://github.com/sephclt/thought-bubble-app)** — A mobile journaling app powered by Sentiment Analysis.
 - **[KahonPapel](https://github.com/sephclt/KahonPapel)** — A simple scripting language for generating text-based data.
